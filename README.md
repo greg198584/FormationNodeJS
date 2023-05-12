@@ -4,7 +4,6 @@ Ce projet contient des exemples de code pour NodeJS, expliquant les différentes
 
 - Initialisation d'un projet NodeJS
 - Création d'un serveur Web avec NodeJS
-- Gestion des fichiers et des dossiers avec NodeJS
 - Requêtes HTTP avec NodeJS
 - Utilisation des callbacks en NodeJS
 
@@ -36,10 +35,8 @@ Assurez-vous de remplacer "nom_du_fichier.js" par le nom du fichier que vous vou
 
 Le projet est organisé comme suit :
 
-- `package.json` : fichier de configuration pour npm
-- `serveur-web` : exemple de création d'un serveur Web avec NodeJS
-- `gestion-fichiers` : exemple de gestion des fichiers et des dossiers avec NodeJS
-- `requetes-http` : exemple de requêtes HTTP avec NodeJS
 - `callbacks` : exemple d'utilisation des callbacks en NodeJS
+- `serveur-web` : exemple de création d'un serveur Web Simple avec NodeJS
+- `requetes-http` : exemple de requêtes HTTP avec NodeJS
 
 Chaque dossier contient un fichier README.md décrivant l'exemple de code et expliquant comment l'utiliser.
